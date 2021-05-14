@@ -6,10 +6,6 @@
     "description": "Just click on the extension and then you'll be able to access the main Google apps (more coming soon)!",
     "version": "0.1",
     "version_name": "0.1-prerelease",
-    "options_ui": {
-        "page": "options.html",
-        "chrome_style": false
-    },
     
   
     "permissions": [
