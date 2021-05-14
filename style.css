@@ -1,0 +1,37 @@
+#parent_div_1, #parent_div_2, #parent_div_3, #parent_div_4, #parent_div_5 {
+    width: 300px;
+    height: 50px;
+    margin-right: 10px;
+    float: left;
+  }
+  .child_div_1 {
+    float: left;
+    margin-right: 5px;
+    align-items: center;
+    margin-top: 6px;
+    width: 149px;
+    height: 37px;
+  }
+  .child_div_2 {
+      float: right;
+      margin-left: 5px;
+      align-items: center;
+      margin-top: -39px;
+      width: 149px;
+      height: 37px;
+  }
+  img {
+      float: left;
+  }
+  h4 {
+      height: 0px; 
+      line-height: 0px; 
+      padding: 0px;
+      font-weight: 500;
+  }
+  h2 {
+      font-weight: 500;
+  }
+  a div:hover {
+      background-color: #eaeaea
+  }
