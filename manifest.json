@@ -17,9 +17,9 @@
     ],
     
   
-  "icons": { "16": ".icon/logo.png",
-             "48": ".icon/logo.png",
-            "128": ".icon/logo.png" },
+  "icons": { "16": "icon/logo.png",
+             "48": "icon/logo.png",
+            "128": "icon/logo.png" },
   
     "browser_action": {
       "default_popup": "popup.html"
