@@ -11,7 +11,7 @@
     margin-top: 6px;
     width: 149px;
     height: 37px;
-    border-radius: 15px
+    border-radius: 5px
   }
   .child_div_2 {
       float: right;
@@ -20,7 +20,7 @@
       margin-top: -39px;
       width: 149px;
       height: 37px;
-      border-radius: 15px;
+      border-radius: 5px;
   }
   img {
       float: left;
