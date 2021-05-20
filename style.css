@@ -11,7 +11,6 @@
     margin-top: 6px;
     width: 149px;
     height: 37px;
-    border-radius: 5px
   }
   .child_div_2 {
       float: right;
@@ -20,7 +19,6 @@
       margin-top: -39px;
       width: 149px;
       height: 37px;
-      border-radius: 5px;
   }
   ul {
     list-style-type: none;
@@ -54,6 +52,9 @@
   }
   h2 {
       font-weight: 500;
+  }
+  div {
+      border-radius: 5px;
   }
   a div:hover {
       background-color: #eaeaea
