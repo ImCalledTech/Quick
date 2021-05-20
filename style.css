@@ -58,6 +58,7 @@
   }
   li {
     border-radius: 5px;
+    border-color: black;
 }
   a div:hover {
       background-color: #eaeaea
