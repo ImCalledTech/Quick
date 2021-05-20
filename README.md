@@ -1,4 +1,4 @@
-# GoogleOpen
+# About
 GoogleOpen is a free, open source chrome extension designed to help users navigate around Google websites with ease
 
 # Instructions for insall:
